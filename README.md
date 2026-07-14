@@ -104,21 +104,13 @@ The pipeline produces:
 
 <p align="center"><em>Cluster prototypes</em></p>
 
-## 📊 Dataset
+## 📥 **WriGest data (Zenodo):**
+[https://zenodo.org/records/20117155](https://zenodo.org/records/20117155)
 
 Experiments use the **WriGest** dataset in **7 configurations**: the full
 40-class set + 6 macro categories (Directional, Number, Character, Sign, Fine,
-Daily — see `category.txt`).
-
-📥 **WriGest data (Zenodo):**
-[https://zenodo.org/records/20117155](https://zenodo.org/records/20117155)
-
----
-
-## WriGest
-
-WriGest is a 7-channel wrist-worn IMU + heart-rate gesture dataset (40 gesture
-classes, grouped into 6 macro categories).
+Daily — see `category.txt`). WriGest is a 7-channel wrist-worn IMU + heart-rate 
+gesture dataset (40 gesture classes, grouped into 6 macro categories).
 
 📥 The dataset is available on Zenodo:
 [https://zenodo.org/records/20117155](https://zenodo.org/records/20117155)
