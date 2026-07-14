@@ -104,7 +104,8 @@ The pipeline produces:
 
 <p align="center"><em>Cluster prototypes</em></p>
 
-## 📥 **WriGest data (Zenodo):**
+## 📊 **WriGest data ():**
+📥 The dataset is available on Zenodo:
 [https://zenodo.org/records/20117155](https://zenodo.org/records/20117155)
 
 Experiments use the **WriGest** dataset in **7 configurations**: the full
@@ -112,8 +113,7 @@ Experiments use the **WriGest** dataset in **7 configurations**: the full
 Daily — see `category.txt`). WriGest is a 7-channel wrist-worn IMU + heart-rate 
 gesture dataset (40 gesture classes, grouped into 6 macro categories).
 
-📥 The dataset is available on Zenodo:
-[https://zenodo.org/records/20117155](https://zenodo.org/records/20117155)
+
 
 The learned latent space, projected for the train and test splits, shows
 well-separated gesture clusters:
