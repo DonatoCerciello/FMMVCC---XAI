@@ -104,7 +104,7 @@ The pipeline produces:
 
 <p align="center"><em>Cluster prototypes</em></p>
 
-## 📊 **WriGest data ():**
+## 📊 **WriGest data**
 📥 The dataset is available on Zenodo:
 [https://zenodo.org/records/20117155](https://zenodo.org/records/20117155)
 
