@@ -1,0 +1,56 @@
+WriGest macro categories -> fine-grained gesture classes
+(see main.py: WRIGEST_MACRO_CATEGORIES, --wrigest-macro-category)
+
+Directional (6 classes):
+  back
+  down
+  front
+  left
+  right
+  up
+
+Number (10 classes):
+  number_0
+  number_1
+  number_2
+  number_3
+  number_4
+  number_5
+  number_6
+  number_7
+  number_8
+  number_9
+
+Character (7 classes):
+  capital_letter_f
+  capital_letter_t
+  lower_letter_a
+  lower_letter_b
+  lower_letter_c
+  lower_letter_d
+  lower_letter_e
+
+Sign (5 classes):
+  check_mark
+  division_sign
+  minus_sign
+  multiplication_sign
+  plus_sign
+
+Fine (6 classes):
+  gesture_appreciation
+  gesture_call
+  gesture_grip
+  gesture_ok
+  gesture_release
+  gesture_tapping
+
+Daily (6 classes):
+  daily_blow_nose
+  daily_comb_hair
+  daily_drink
+  daily_eating
+  daily_smoking
+  daily_wash_hand
+
+Total: 6 categories, 40 classes.
